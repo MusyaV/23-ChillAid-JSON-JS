@@ -1,0 +1,123 @@
+{
+    "arrSecPan": [
+        {
+            "h3": "Faucibus Porttitor Metus",
+            "h4": "Ac orci proin porttitor lacus eget mi pellentesque non."
+        },
+        {
+            "h3": "Malesuada Accumsan",
+            "h4": "Sapien sed metus congue sodales vivamus scelerisque."
+        },
+        {
+            "h3": "Mauris Placerat",
+            "h4": "Et interdum vulputate purus nisl fringilla sapien quis."
+        },
+        {
+            "h3": "Elementum Rhoncus",
+            "h4": "Sollicitudin dui mauris dui nunc lorem tortor pharetra."
+        }
+    ],
+    "arrImg2": [
+        {
+            "img": "2",
+            "alt": "Cinque Terre",
+            "text": "Accumsan Placerat"
+        },
+        {
+            "img": "3",
+            "alt": "Forest",
+            "text": "Scelerisque Etiam"
+        }
+    ],
+    "arrPan2": [
+        {
+            "h3": "Sociis Natoque Penatibus",
+            "h4": "Interdum at congue semper purus nullam quis odio id justo accumsan ullamcorper maecenas vel arcu nulla tincidunt elit ornare."
+        },
+        {
+            "h3": "Magnis Parturient Montes",
+            "h4": "Urna proin venenatis eros viverra ultrices fringilla lectus urna consequat erat eget scelerisque ligula felis nec neque nam."
+        },
+        {
+            "h3": "Nascetur Ridiculus Aenean",
+            "h4": "Vitae ipsum vitae velit porttitor aliquam in quam aliquam ullamcorper sem a auctor dapibus nisi nunc vehicula nunc quis mattis."
+        },
+        {
+            "h3": "Ullamcorper Neque Phasellus",
+            "h4": "Pede turpis at elit nunc at urna sed ligula vivamus vel erat at diam imperdiet pharetra quisque justo turpis mattis ut vitae."
+        },
+        {
+            "h3": "Aliquet Lacus Nulla Erat",
+            "h4": "Tortor aenean leo ipsum elementum non cursus eu interdum ut risus proin risus nibh viverra eget lobortis feugiat egestas in nisl."
+        },
+        {
+            "h3": "Aliquam Volutpat Curabitur",
+            "h4": "Fusce dignissim neque vitae justo aenean ac urna et leo posuere pretium nunc bibendum enim quis imperdiet elementum dui dolor."
+        }
+    ],
+    "arrFotos": [
+        {
+            "img": "6",
+            "h2": "A. Doe",
+            "text": "Euismod nec hendrerit"
+        },
+        {
+            "img": 7,
+            "h2": "B. Doe",
+            "text": "Vel velit aliquam massa"
+        },
+        {
+            "img": 8,
+            "h2": "C. Doe",
+            "text": "Vulputate aliquet purus"
+        }
+    ],
+    "arrimg33": [
+        {
+            "img": "11",
+            "h2": "A. Doe"
+        },
+        {
+            "img": "12",
+            "h2": "A. Doe"
+        },
+        {
+            "img": "13",
+            "h2": "A. Doe"
+        }
+    ],
+    "arrtable1": [
+        {
+            "data": "05 APR 2045",
+            "text": "Quam Justo Suscipit At Blandit At Blandit Vitae Tellus Maecenas"
+        },
+        {
+            "data": "06 APR 2045",
+            "text": "Commodo Mauris A Semper Posuere Sem Arcu Cursus Felis Non Cursus"
+        },
+        {
+            "data": "07 APR 2045",
+            "text": "Enim Odio In Odio Suspendisse Commodo Suscipit Nisi Nam Tellus"
+        }
+    ],
+    "arrtable2": [
+        {
+            "class": "phone",
+            "pd": "7",
+            "strong": "Give Us A Call:",
+            "text": "+00 (123) 456 7890"
+        },
+        {
+            "class": "mail",
+            "pd": "12",
+            "strong": "Send Us A Mail:",
+            "text": "support@domain.com"
+        },
+        {
+            "class": "visit",
+            "pd": "12",
+            "strong": "Come Visit Us:",
+            "text": "Directions to our location"
+        }
+    ]
+}
